@@ -1,65 +1,116 @@
 <p align="center">
-  <img src="./assets/kraxx-header.svg" alt="Mohamed Basil — cybersecurity and software projects" width="100%" />
+  <img src="./assets/kraxx-header.svg" alt="Basilmellow — Cybersecurity Builder" width="100%" />
 </p>
 
-# Mohamed Basil
+<p align="center">
+  <a href="https://kraxxsec.com">KraxxSec</a>
+  ·
+  <a href="https://kraxxstudio.com">Kraxx Studio</a>
+  ·
+  <a href="https://kraxxbot.kraxxsec.com/login">KraxxBot</a>
+  ·
+  <a href="https://www.linkedin.com/in/mohamed-basil-966a8225a/">LinkedIn</a>
+</p>
 
-I'm Mohamed Basil, also known as **Basilmellow**. I build security tools, web applications, and practical labs. My work brings together browser security, detection, automation, and the engineering needed to turn an experiment into something people can use.
+```text
+$ whoami
+basilmellow :: cybersecurity builder
 
-**KRAxx** is the home for my personal projects. Here you'll find what I'm building, the decisions behind it, and the limits of what each project currently does.
+$ ./current_build
+KRAxx
+├── KraxxSec       security & research
+├── Kraxx Studio   digital products & engineering
+└── KraxxBot       multi-tenant Discord security tooling
 
-[Website](https://kraxxsec.com) · [LinkedIn](https://www.linkedin.com/in/mohamed-basil-966a8225a/) · [KraxxDeceit demo](https://kraxxdeceit.kraxxsec.com/demo)
+$ ./focus
+security engineering • offensive security • detection • automation • product building
+```
 
-## Featured projects
+## ABOUT
 
-### KraxxDeceit — browser security research
+I'm **Mohamed Basil** — a cybersecurity-focused builder working across security engineering, practical labs, automation, and product development.
 
-A controlled research application for running browser experiments in disposable sandboxes and inspecting the evidence they produce.
+My main project is **KRAxx**: a growing ecosystem of products and experiments built around technology, security, and useful software.
 
-- Fixed prompt-injection and neutral-control scenarios with deterministic execution by default.
-- Browser observations, bounded process/socket telemetry, timelines, evidence graphs, and hypotheses collected into portable cases.
-- Four-run comparison studies with resumable local progress, plus PDF, JSON, Markdown, CSV, and ZIP exports across case and study workflows.
-- Invite-only private case storage with authentication, owner isolation, and database access policies.
+I like taking ideas from **"this should exist" → architecture → code → deployment → public product**.
 
-The public demo uses synthetic fixtures. Arbitrary public URL scanning is disabled, and optional free AI research remains experimental. Recorded evidence and hypotheses are presented separately.
+## KRAxx / PRODUCT ECOSYSTEM
 
-**Built with:** TypeScript, Next.js, React, Playwright, Vercel Sandbox, Supabase, and Redis.
+| Project | What it is | Link |
+|---|---|---|
+| **KraxxSec** | Cybersecurity-focused brand, research, labs and security work | [kraxxsec.com](https://kraxxsec.com) |
+| **Kraxx Studio** | Digital product, web engineering and creative technology studio | [kraxxstudio.com](https://kraxxstudio.com) |
+| **KraxxBot** | Multi-tenant Discord bot and dashboard platform | [kraxxbot.kraxxsec.com](https://kraxxbot.kraxxsec.com/login) |
+| **KRAxx** | The umbrella behind the ecosystem I'm building | — |
 
-[Source code](https://github.com/Basilmellow/KraxxDeceit) · [Try the demo](https://kraxxdeceit.kraxxsec.com/demo) · [Visitor guide](https://kraxxdeceit.kraxxsec.com/guide)
+## SECURITY WORK
 
-### KraxxBot — Discord bot and dashboard
+```text
+OFFENSIVE        web security · vulnerability research · CTFs · Burp Suite
+DEFENSIVE        SOC · SIEM · detection · incident response · Splunk
+ENGINEERING      security tooling · automation · cloud · infrastructure
+ASSURANCE        ISO 27001 · NIST CSF · PCI DSS · CIS Controls
+```
 
-A multi-server Discord bot with a web dashboard. My work on it includes server-scoped permissions, automation, and keeping each server's configuration and actions isolated.
+### SELECTED BUILDS
 
-**Built with:** TypeScript, Node.js, Next.js, Prisma, and PostgreSQL.
+| Build | Focus |
+|---|---|
+| **MindSec Compliance Simulation Lab** | Virtual environment mapping ISO 27001, PCI DSS, NIST CSF and CIS Controls with documentation, risk assessment and policy templates |
+| **MindSec Splunk Lab** | Hands-on SIEM / detection engineering work using Splunk |
+| **KraxxBot** | Production-oriented Discord bot + dashboard with multi-server architecture |
+| **SAMS / LSEMS Portal** | Operational web portal and internal tooling for a roleplay emergency-services organization |
 
-[Open the dashboard](https://kraxxbot.kraxxsec.com/login)
+## STACK
 
-## Labs and other work
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,nextjs,nodejs,react,html,css,git,github,docker,linux,postgresql,aws&perline=7" />
+</p>
 
-| Project | Focus |
-| --- | --- |
-| **MindSec Compliance Simulation Lab** | A lab for mapping ISO 27001, PCI DSS, NIST CSF, and CIS Controls through risk assessments, documentation, and policy templates. |
-| **MindSec Splunk Lab** | Hands-on SIEM and detection engineering practice using Splunk. |
-| **SAMS / LSEMS Portal** | A web portal and internal tools for a roleplay emergency-services organization. |
-| **[Kraxx Studio](https://kraxxstudio.com)** | My digital product and web engineering work. |
+<p align="center">
+  <code>Splunk</code>
+  <code>Burp Suite</code>
+  <code>OWASP</code>
+  <code>SIEM</code>
+  <code>EDR</code>
+  <code>VMware</code>
+  <code>Cloud Security</code>
+</p>
 
-## What I work with
+## CREDENTIALS / LEARNING
 
-**Development:** TypeScript, JavaScript, Python, React, Next.js, Node.js, and PostgreSQL.  
-**Infrastructure:** Git, Docker, Linux, and cloud deployment.  
-**Security practice:** web security, Burp Suite, Splunk, detection engineering, CTFs, and compliance simulation labs.
+**CISSP Associate** · **CPTS** · cybersecurity labs · CTFs · security research
 
-I'm especially interested in making security behavior easier to inspect: what ran, what was observed, which conclusions the evidence supports, and where uncertainty remains.
+I keep learning by building: labs, detections, tooling, web applications, automation, and complete systems rather than isolated tutorials.
 
-## Current focus
+## WRITING / COMMUNITY
 
-- Improving KraxxDeceit's research workflows and reproducibility.
-- Developing KraxxBot's automation and dashboard while preserving server isolation.
-- Documenting practical security work through labs and project write-ups.
+**Medium** — security notes, technical write-ups and experiments  
+**Hack The Box** — offensive-security practice  
+**LinkedIn** — professional work and build updates  
+**Discord** — communities, projects and collaboration
 
-## Connect
+## NOW BUILDING
 
-Find my projects at [kraxxsec.com](https://kraxxsec.com), or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-basil-966a8225a/).
+```text
+[KRAxx]
 
-For project questions or reproducible bugs, use the relevant repository's issue tracker. Please keep credentials and private evidence out of public issues.
+01  hardening the product ecosystem
+02  shipping security-focused tooling
+03  documenting practical security research
+04  turning experiments into usable products
+05  building in public — carefully, not noisily
+```
+
+## FIND ME
+
+<p align="center">
+  <a href="https://kraxxsec.com">Website</a> •
+  <a href="https://kraxxstudio.com">Kraxx Studio</a> •
+  <a href="https://www.linkedin.com/in/mohamed-basil-966a8225a/">LinkedIn</a> •
+  <a href="https://github.com/Basilmellow">GitHub</a>
+</p>
+
+<p align="center">
+  <sub>Building KRAxx · security by craft · products over noise</sub>
+</p>
