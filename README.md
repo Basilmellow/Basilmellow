@@ -9,6 +9,8 @@
   ·
   <a href="https://kraxxbot.kraxxsec.com/login">KraxxBot</a>
   ·
+  <a href="https://kraxxdeceit.kraxxsec.com">KraxxDeceit</a>
+  ·
   <a href="https://www.linkedin.com/in/mohamed-basil-966a8225a/">LinkedIn</a>
 </p>
 
@@ -20,6 +22,7 @@ $ ./current_build
 KRAxx
 ├── KraxxSec       security & research
 ├── Kraxx Studio   digital products & engineering
+├── KraxxDeceit    controlled browser security research
 └── KraxxBot       multi-tenant Discord security tooling
 
 $ ./focus
@@ -41,6 +44,7 @@ I like taking ideas from **"this should exist" → architecture → code → dep
 | **KraxxSec** | Cybersecurity-focused brand, research, labs and security work | [kraxxsec.com](https://kraxxsec.com) |
 | **Kraxx Studio** | Digital product, web engineering and creative technology studio | [kraxxstudio.com](https://kraxxstudio.com) |
 | **KraxxBot** | Multi-tenant Discord bot and dashboard platform | [kraxxbot.kraxxsec.com](https://kraxxbot.kraxxsec.com/login) |
+| **KraxxDeceit** | Controlled browser security research with sandboxed experiments and portable evidence cases | [kraxxdeceit.kraxxsec.com](https://kraxxdeceit.kraxxsec.com) · [Source](https://github.com/Basilmellow/KraxxDeceit) |
 | **KRAxx** | The umbrella behind the ecosystem I'm building | — |
 
 ## SECURITY WORK
@@ -59,6 +63,7 @@ ASSURANCE        ISO 27001 · NIST CSF · PCI DSS · CIS Controls
 | **MindSec Compliance Simulation Lab** | Virtual environment mapping ISO 27001, PCI DSS, NIST CSF and CIS Controls with documentation, risk assessment and policy templates |
 | **MindSec Splunk Lab** | Hands-on SIEM / detection engineering work using Splunk |
 | **KraxxBot** | Production-oriented Discord bot + dashboard with multi-server architecture |
+| **KraxxDeceit** | Isolated Playwright experiments, browser and system evidence, comparison studies, PDF reports and private case storage |
 | **SAMS / LSEMS Portal** | Operational web portal and internal tooling for a roleplay emergency-services organization |
 
 ## STACK
@@ -108,6 +113,7 @@ I keep learning by building: labs, detections, tooling, web applications, automa
   <a href="https://kraxxsec.com">Website</a> •
   <a href="https://kraxxstudio.com">Kraxx Studio</a> •
   <a href="https://www.linkedin.com/in/mohamed-basil-966a8225a/">LinkedIn</a> •
+  <a href="https://kraxxdeceit.kraxxsec.com">KraxxDeceit</a> •
   <a href="https://github.com/Basilmellow">GitHub</a>
 </p>
 
