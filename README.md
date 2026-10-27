@@ -46,16 +46,16 @@ I like taking ideas from **"this should exist" → architecture → code → dep
 
 ## KRAxx / PRODUCT ECOSYSTEM
 
-| Project | What it is | Link |
-|---|---|---|
+| Project | What it is |
+|---|---|
 
-| **Kraxx PayGuard** | Buyer-authorized AI payment firewall with deterministic ALLOW/REVIEW/BLOCK enforcement, audit trails and PayPal Sandbox integration | [Source](https://github.com/Basilmellow/KraxxPayGuard) · [Devpost](https://devpost.com/software/kraxx-payguard) |
-| **Kraxx HxL** | Secure two-sided voting, discussions, moderation and realtime interaction platform (prelaunch) | — |
-| **KraxxLedger** | Offline Android footwear inventory, sales, dealer orders and business management application | — |
-| **OceanLine** | Roblox maritime cargo company management simulator with ports, fleet operations, contracts and progression (in development) | — |
-| **Kindan** | Story-driven psychological horror experience set in a mysterious rural village (in development) | — |
-| **Couple** | Roblox couples adventure with chapters, activities, progression, social interactions and home customization | — |
-| **Crazy Alpaca** | Roblox social island and multiplayer minigame prototype (in development) | — |
+| **Kraxx PayGuard** | Buyer-authorized AI payment firewall with deterministic ALLOW/REVIEW/BLOCK enforcement, audit trails and PayPal Sandbox integration |
+| **Kraxx HxL** | Secure two-sided voting, discussions, moderation and realtime interaction platform (prelaunch) |
+| **KraxxLedger** | Offline Android footwear inventory, sales, dealer orders and business management application |
+| **OceanLine** | Roblox maritime cargo company management simulator with ports, fleet operations, contracts and progression (in development) |
+| **Kindan** | Story-driven psychological horror experience set in a mysterious rural village (in development) |
+| **Couple** | Roblox couples adventure with chapters, activities, progression, social interactions and home customization |
+| **Crazy Alpaca** | Roblox social island and multiplayer minigame prototype (in development) |
 
 
 ## SECURITY WORK
@@ -145,7 +145,7 @@ I keep learning by building: labs, detections, tooling, web applications, automa
   <a href="https://kraxxdeceit.kraxxsec.com">KraxxDeceit</a> •
   <a href="https://github.com/Basilmellow">GitHub</a> •
   <a href="https://github.com/Basilmellow/KraxxPayGuard">Kraxx PayGuard</a> •
-  <a href="https://devpost.com/software/kraxx-payguard">Kraxx PayGuard</a> •
+  <a href="https://devpost.com/software/kraxx-payguard">Kraxx PayGuard</a> 
 
 
 </p>
