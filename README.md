@@ -18,12 +18,17 @@
 $ whoami
 basilmellow :: cybersecurity builder
 
+
 $ ./current_build
 KRAxx
 ├── KraxxSec       security & research
 ├── Kraxx Studio   digital products & engineering
-├── KraxxDeceit    controlled browser security research
-└── KraxxBot       multi-tenant Discord security tooling
+├── KraxxDeceit    sandboxed browser security research
+├── Kraxx PayGuard AI payment authorization firewall
+├── KraxxBot       Discord operations & automation
+├── Kraxx HxL      secure voting & discussion platform
+├── KraxxLedger    offline Android business management
+└── Roblox Worlds  OceanLine · Kindan · Couple · Crazy Alpaca
 
 $ ./focus
 security engineering • offensive security • detection • automation • product building
@@ -35,25 +40,36 @@ I'm **Mohamed Basil** — a cybersecurity-focused builder working across securit
 
 My main project is **KRAxx**: a growing ecosystem of products and experiments built around technology, security, and useful software.
 
-I like taking ideas from **"this should exist" → architecture → code → deployment → public product**.
+
+I like taking ideas from **"this should exist" → architecture → code → deployment → public product**. My work ranges from sandboxed security research and deterministic AI security systems to full-stack applications, business automation, and interactive game worlds. I focus on verifiable engineering, practical security boundaries, and building software that solves real problems.
+
 
 ## KRAxx / PRODUCT ECOSYSTEM
 
 | Project | What it is | Link |
 |---|---|---|
-| **KraxxSec** | Cybersecurity-focused brand, research, labs and security work | [kraxxsec.com](https://kraxxsec.com) |
-| **Kraxx Studio** | Digital product, web engineering and creative technology studio | [kraxxstudio.com](https://kraxxstudio.com) |
-| **KraxxBot** | Multi-tenant Discord bot and dashboard platform | [kraxxbot.kraxxsec.com](https://kraxxbot.kraxxsec.com/login) |
-| **KraxxDeceit** | Controlled browser security research with sandboxed experiments and portable evidence cases | [kraxxdeceit.kraxxsec.com](https://kraxxdeceit.kraxxsec.com) · [Source](https://github.com/Basilmellow/KraxxDeceit) |
-| **KRAxx** | The umbrella behind the ecosystem I'm building | — |
+
+| **Kraxx PayGuard** | Buyer-authorized AI payment firewall with deterministic ALLOW/REVIEW/BLOCK enforcement, audit trails and PayPal Sandbox integration | [Source](https://github.com/Basilmellow/KraxxPayGuard) · [Devpost](https://devpost.com/software/kraxx-payguard) |
+| **Kraxx HxL** | Secure two-sided voting, discussions, moderation and realtime interaction platform (prelaunch) | — |
+| **KraxxLedger** | Offline Android footwear inventory, sales, dealer orders and business management application | — |
+| **OceanLine** | Roblox maritime cargo company management simulator with ports, fleet operations, contracts and progression (in development) | — |
+| **Kindan** | Story-driven psychological horror experience set in a mysterious rural village (in development) | — |
+| **Couple** | Roblox couples adventure with chapters, activities, progression, social interactions and home customization | — |
+| **Crazy Alpaca** | Roblox social island and multiplayer minigame prototype (in development) | — |
+
 
 ## SECURITY WORK
 
 ```text
-OFFENSIVE        web security · vulnerability research · CTFs · Burp Suite
-DEFENSIVE        SOC · SIEM · detection · incident response · Splunk
-ENGINEERING      security tooling · automation · cloud · infrastructure
-ASSURANCE        ISO 27001 · NIST CSF · PCI DSS · CIS Controls
+
+| **Kraxx PayGuard** | Immutable buyer authorization, AI-agent permission boundaries, deterministic payment firewall, injection-defense evaluation and auditable PayPal Sandbox workflows |
+| **Kraxx HxL** | Full-stack security engineering with Supabase RLS, authorization enforcement, duplicate-vote prevention, concurrency testing and moderation controls |
+| **KraxxLedger** | Offline-first Android application with SQLite persistence, inventory transactions, dealer orders, reports and backup/restore |
+| **OceanLine** | Roblox maritime economy simulation with fleet management, cargo dispatch, voyage settlement and multiplayer testing |
+| **Kindan** | Narrative-driven Roblox psychological horror project with original environmental storytelling and an expanding village world |
+| **Couple** | Roblox social adventure featuring chapter progression, shared activities, personal housing and customization |
+| **Crazy Alpaca** | Roblox social island and minigame prototype with custom environment and lobby systems |
+
 ```
 
 ### SELECTED BUILDS
@@ -80,11 +96,21 @@ ASSURANCE        ISO 27001 · NIST CSF · PCI DSS · CIS Controls
   <code>EDR</code>
   <code>VMware</code>
   <code>Cloud Security</code>
+  <code>Application Security</code>
+  <code>Playwright</code>
+  <code>Supabase</code>
+  <code>Redis</code>
+  <code>Security Automation</code>
+  <code>AI Agent Security</code>
+  <code>SQLite</code>
+
 </p>
 
 ## CREDENTIALS / LEARNING
 
-**CISSP Associate** · **CPTS** · cybersecurity labs · CTFs · security research
+
+**Associate of ISC2** · **CPTS** · **ISC2 CC** · **Google Cybersecurity Certificate** · cybersecurity labs · CTFs · security research
+
 
 I keep learning by building: labs, detections, tooling, web applications, automation, and complete systems rather than isolated tutorials.
 
@@ -100,11 +126,14 @@ I keep learning by building: labs, detections, tooling, web applications, automa
 ```text
 [KRAxx]
 
-01  hardening the product ecosystem
-02  shipping security-focused tooling
-03  documenting practical security research
-04  turning experiments into usable products
-05  building in public — carefully, not noisily
+01  hardening the security product ecosystem
+02  advancing sandboxed browser security research
+03  developing deterministic AI security systems
+04  engineering reliable full-stack applications
+05  building offline-first tools for real businesses
+06  creating original interactive game worlds
+07  documenting practical research and lessons
+08  building in public — carefully, not noisily
 ```
 
 ## FIND ME
@@ -114,7 +143,11 @@ I keep learning by building: labs, detections, tooling, web applications, automa
   <a href="https://kraxxstudio.com">Kraxx Studio</a> •
   <a href="https://www.linkedin.com/in/mohamed-basil-966a8225a/">LinkedIn</a> •
   <a href="https://kraxxdeceit.kraxxsec.com">KraxxDeceit</a> •
-  <a href="https://github.com/Basilmellow">GitHub</a>
+  <a href="https://github.com/Basilmellow">GitHub</a> •
+  <a href="https://github.com/Basilmellow/KraxxPayGuard">Kraxx PayGuard</a> •
+  <a href="https://devpost.com/software/kraxx-payguard">Kraxx PayGuard</a> •
+
+
 </p>
 
 <p align="center">
