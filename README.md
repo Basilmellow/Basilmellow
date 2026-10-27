@@ -48,7 +48,7 @@ I like taking ideas from **"this should exist" → architecture → code → dep
 
 | Project | What it is |
 |---|---|
-
+```text
 | **Kraxx PayGuard** | Buyer-authorized AI payment firewall , audit trails and PayPal Sandbox integration |
 | **Kraxx HxL** | Secure two-sided voting, discussions, moderation and realtime interaction platform (prelaunch) |
 | **KraxxLedger** | Offline Android footwear inventory, sales, dealer orders and business management application |
@@ -56,7 +56,7 @@ I like taking ideas from **"this should exist" → architecture → code → dep
 | **Kindan** | Story-driven psychological horror experience set in a mysterious rural village (in development) |
 | **Couple** | Roblox couples adventure with chapters, activities, progression, social interactions and home customization |
 | **Crazy Alpaca** | Roblox social island and multiplayer minigame prototype (in development) |
-
+```
 
 ## SECURITY WORK
 
