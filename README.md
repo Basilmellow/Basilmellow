@@ -49,7 +49,7 @@ I like taking ideas from **"this should exist" → architecture → code → dep
 | Project | What it is |
 |---|---|
 
-| **Kraxx PayGuard** | Buyer-authorized AI payment firewall with deterministic ALLOW/REVIEW/BLOCK enforcement, audit trails and PayPal Sandbox integration |
+| **Kraxx PayGuard** | Buyer-authorized AI payment firewall , audit trails and PayPal Sandbox integration |
 | **Kraxx HxL** | Secure two-sided voting, discussions, moderation and realtime interaction platform (prelaunch) |
 | **KraxxLedger** | Offline Android footwear inventory, sales, dealer orders and business management application |
 | **OceanLine** | Roblox maritime cargo company management simulator with ports, fleet operations, contracts and progression (in development) |
